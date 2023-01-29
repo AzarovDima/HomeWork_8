@@ -1,0 +1,15 @@
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\bin\Debug\net7.0\Challenge_2_MinRovSum.exe
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\bin\Debug\net7.0\Challenge_2_MinRovSum.deps.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\bin\Debug\net7.0\Challenge_2_MinRovSum.runtimeconfig.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\bin\Debug\net7.0\Challenge_2_MinRovSum.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\bin\Debug\net7.0\Challenge_2_MinRovSum.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\Challenge_2_MinRovSum.csproj.AssemblyReference.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\Challenge_2_MinRovSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\Challenge_2_MinRovSum.AssemblyInfoInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\Challenge_2_MinRovSum.AssemblyInfo.cs
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\Challenge_2_MinRovSum.csproj.CoreCompileInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\Challenge_2_MinRovSum.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\refint\Challenge_2_MinRovSum.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\Challenge_2_MinRovSum.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\Challenge_2_MinRovSum.genruntimeconfig.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_2_MinRovSum\obj\Debug\net7.0\ref\Challenge_2_MinRovSum.dll
