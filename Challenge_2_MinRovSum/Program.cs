@@ -2,7 +2,7 @@
 
 
 Console.WriteLine("Печатаю массив...");
-int[,] inArray = GetArray(3, 4, 0, 10);
+int[,] inArray = GetArray(7, 5, 0, 10);
 PrintArray(inArray);
 int sumRows = GetSumRows(inArray, 0); // найдем сумму 0 строки
 int minSumRows = 0; // пусть сумма первой строки будет минимальна
