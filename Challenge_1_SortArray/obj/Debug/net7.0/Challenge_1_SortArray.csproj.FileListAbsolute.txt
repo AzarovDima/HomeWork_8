@@ -1,0 +1,15 @@
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\bin\Debug\net7.0\Challenge_1_SortArray.exe
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\bin\Debug\net7.0\Challenge_1_SortArray.deps.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\bin\Debug\net7.0\Challenge_1_SortArray.runtimeconfig.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\bin\Debug\net7.0\Challenge_1_SortArray.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\bin\Debug\net7.0\Challenge_1_SortArray.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\Challenge_1_SortArray.csproj.AssemblyReference.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\Challenge_1_SortArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\Challenge_1_SortArray.AssemblyInfoInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\Challenge_1_SortArray.AssemblyInfo.cs
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\Challenge_1_SortArray.csproj.CoreCompileInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\Challenge_1_SortArray.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\refint\Challenge_1_SortArray.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\Challenge_1_SortArray.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\Challenge_1_SortArray.genruntimeconfig.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_1_SortArray\obj\Debug\net7.0\ref\Challenge_1_SortArray.dll
