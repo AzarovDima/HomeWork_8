@@ -1,0 +1,15 @@
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\bin\Debug\net7.0\Challenge_4_DreiArrov.exe
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\bin\Debug\net7.0\Challenge_4_DreiArrov.deps.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\bin\Debug\net7.0\Challenge_4_DreiArrov.runtimeconfig.json
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\bin\Debug\net7.0\Challenge_4_DreiArrov.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\bin\Debug\net7.0\Challenge_4_DreiArrov.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\Challenge_4_DreiArrov.csproj.AssemblyReference.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\Challenge_4_DreiArrov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\Challenge_4_DreiArrov.AssemblyInfoInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\Challenge_4_DreiArrov.AssemblyInfo.cs
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\Challenge_4_DreiArrov.csproj.CoreCompileInputs.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\Challenge_4_DreiArrov.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\refint\Challenge_4_DreiArrov.dll
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\Challenge_4_DreiArrov.pdb
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\Challenge_4_DreiArrov.genruntimeconfig.cache
+C:\Users\ada89\OneDrive\HomeWork\HomeWork_8\HomeWork_8\Challenge_4_DreiArrov\obj\Debug\net7.0\ref\Challenge_4_DreiArrov.dll
